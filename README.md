@@ -1,2 +1,3 @@
-# FitBuddy-AI-Fitness-Plan-Generator
-AI Fitness Plan Generator using Gemini Models, FastAPI and SQLite
+# FitBuddy – Project Development
+
+Place the actual FitBuddy source code in the app, templates and static folders.
